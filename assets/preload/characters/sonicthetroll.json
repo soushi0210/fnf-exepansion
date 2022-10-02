@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sonicthetrollfuckinglololololmaowtf idle"
+		},
+		{
+			"offsets": [
+				107,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sonicthetrollfuckinglololololmaowtf down"
+		},
+		{
+			"offsets": [
+				97,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sonicthetrollfuckinglololololmaowtf up"
+		},
+		{
+			"offsets": [
+				743,
+				813
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sonicthetrollfuckinglololololmaowtf left"
+		},
+		{
+			"offsets": [
+				-40,
+				-101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sonicthetrollfuckinglololololmaowtf right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sonicthetrollfuckinglololololmaowtf",
+	"position": [
+		240,
+		280
+	],
+	"healthicon": "faker",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		245
+	],
+	"camera_position": [
+		-180,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}
