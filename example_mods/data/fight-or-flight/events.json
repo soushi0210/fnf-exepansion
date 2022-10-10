@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "starved",
+		"player1": "bf-tails",
+		"player2": "starved",
+		"player3": null,
+		"events": [
+			[
+				123519.092656913,
+				[
+					[
+						"Perez Sen",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				146513.10463296,
+				[
+					[
+						"Perez Sen",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				149387.356129966,
+				[
+					[
+						"Perez Sen",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				172381.368106014,
+				[
+					[
+						"Perez Sen",
+						"2",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 123,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Fight or Flight"
+	}
+}

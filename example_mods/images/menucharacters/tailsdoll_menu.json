@@ -1,0 +1,11 @@
+{
+	"idle_anim": "creepystare",
+	"image": "tailsdoll_menu",
+	"position": [
+		130,
+		71
+	],
+	"flipX": false,
+	"scale": 1,
+	"confirm_anim": "creepysmile"
+}

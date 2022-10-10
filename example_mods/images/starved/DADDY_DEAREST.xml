@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DADDY_DEAREST.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+
+	<SubTexture name="Símbolo 10000" x="0" y="6576" width="4168" height="822"/>
+	<SubTexture name="Símbolo 10001" x="0" y="5754" width="4168" height="822"/>
+	<SubTexture name="Símbolo 10002" x="0" y="4932" width="4168" height="822"/>
+	<SubTexture name="Símbolo 10003" x="0" y="4110" width="4168" height="822"/>
+	<SubTexture name="Símbolo 10004" x="0" y="3288" width="4168" height="822"/>
+	<SubTexture name="Símbolo 10005" x="0" y="2466" width="4168" height="822"/>
+	<SubTexture name="Símbolo 10006" x="0" y="1644" width="4168" height="822"/>
+	<SubTexture name="Símbolo 10007" x="0" y="822" width="4168" height="822"/>
+	<SubTexture name="Símbolo 10008" x="0" y="0" width="4168" height="822"/>
+
+</TextureAtlas>

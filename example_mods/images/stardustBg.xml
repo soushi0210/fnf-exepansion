@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="stardustBg.png"><SubTexture name="stardustBg idle0000" x="0" y="0" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0001" x="4612" y="0" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0002" x="9224" y="0" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0003" x="13836" y="0" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0004" x="18448" y="0" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0005" x="23060" y="0" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0006" x="0" y="2836" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0007" x="4612" y="2836" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0008" x="9224" y="2836" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0009" x="13836" y="2836" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0010" x="18448" y="2836" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0011" x="23060" y="2836" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0012" x="0" y="5672" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0013" x="4612" y="5672" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0014" x="9224" y="5672" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0015" x="13836" y="5672" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0016" x="18448" y="5672" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0017" x="23060" y="5672" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0018" x="0" y="8508" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0019" x="4612" y="8508" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0020" x="9224" y="8508" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0021" x="13836" y="8508" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0022" x="18448" y="8508" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0023" x="23060" y="8508" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0024" x="0" y="11344" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0025" x="4612" y="11344" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0026" x="9224" y="11344" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0027" x="13836" y="11344" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0028" x="18448" y="11344" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0029" x="23060" y="11344" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0030" x="0" y="14180" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0031" x="4612" y="14180" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0032" x="9224" y="14180" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0033" x="13836" y="14180" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0034" x="18448" y="14180" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustBg idle0035" x="23060" y="14180" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+</TextureAtlas>

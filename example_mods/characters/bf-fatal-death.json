@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Fatal bf game over begin"
+		},
+		{
+			"offsets": [
+				90,
+				396
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "fatal bf game over looping"
+		},
+		{
+			"offsets": [
+				90,
+				396
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "deathConfirm",
+			"loop": true,
+			"name": "fatal bf game over looping"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bf-fatal-death",
+	"position": [
+		240,
+		350
+	],
+	"healthicon": "bf-fatal",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		189,
+		255
+	],
+	"camera_position": [
+		160,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 3.10000000000001
+}

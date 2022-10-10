@@ -1,0 +1,76 @@
+{
+	"storyName": "Vs. Sonic.exe",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "sonicexe",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"too slow encore",
+			"sonicexe",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"you can't run encore",
+			"ycr",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"triple trouble encore",
+			"BEAST",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"endless-encore",
+			"majin-og",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"cycles-encore",
+			"soylent",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"sunshine-encore",
+			"tailsdoll_P2",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}

@@ -1,0 +1,11 @@
+{
+	"idle_anim": "box",
+	"image": "staticbox",
+	"position": [
+		292,
+		69
+	],
+	"flipX": false,
+	"scale": 0.95,
+	"confirm_anim": "box"
+}

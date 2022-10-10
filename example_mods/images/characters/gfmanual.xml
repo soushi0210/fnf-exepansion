@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfmanual.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Anim0000" x="0" y="0" width="3198" height="1340" frameX="0" frameY="0" frameWidth="3246" frameHeight="1340"/>
+	<SubTexture name="Anim0001" x="3198" y="0" width="3138" height="1340" frameX="0" frameY="0" frameWidth="3246" frameHeight="1340"/>
+	<SubTexture name="Anim0002" x="0" y="1340" width="3230" height="1340" frameX="0" frameY="0" frameWidth="3246" frameHeight="1340"/>
+	<SubTexture name="Anim0003" x="3230" y="1340" width="3138" height="1340" frameX="0" frameY="0" frameWidth="3246" frameHeight="1340"/>
+	<SubTexture name="Anim0004" x="0" y="2680" width="3246" height="1340"/>
+</TextureAtlas>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="goodRate.png">
+<SubTexture name="good_0000" x="85" y="0" width="61" height="20" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0001" x="146" y="0" width="63" height="20" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0002" x="0" y="28" width="63" height="21" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0003" x="63" y="28" width="65" height="21" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0004" x="128" y="28" width="66" height="22" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0005" x="0" y="50" width="67" height="23" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0006" x="67" y="50" width="68" height="23" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0007" x="135" y="50" width="69" height="24" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0008" x="0" y="74" width="71" height="24" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0009" x="71" y="74" width="71" height="25" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0010" x="142" y="74" width="73" height="26" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0011" x="0" y="100" width="73" height="26" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0012" x="73" y="100" width="75" height="27" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0013" x="148" y="100" width="75" height="27" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0014" x="0" y="127" width="77" height="28" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0015" x="77" y="127" width="77" height="28" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0016" x="154" y="127" width="77" height="28" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0017" x="0" y="155" width="77" height="28" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0018" x="77" y="155" width="77" height="28" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0019" x="154" y="155" width="77" height="28" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0020" x="0" y="183" width="77" height="28" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0021" x="77" y="183" width="77" height="28" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0022" x="154" y="183" width="77" height="28" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0023" x="0" y="211" width="77" height="28" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0024" x="77" y="211" width="77" height="28" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0025" x="154" y="211" width="77" height="28" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0026" x="0" y="239" width="77" height="27" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0027" x="77" y="239" width="77" height="27" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0028" x="154" y="239" width="77" height="26" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0029" x="0" y="266" width="77" height="26" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0030" x="77" y="266" width="77" height="26" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0031" x="154" y="266" width="77" height="25" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0032" x="0" y="292" width="77" height="25" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0033" x="77" y="292" width="77" height="24" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0034" x="154" y="292" width="77" height="24" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0035" x="0" y="317" width="77" height="23" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0036" x="77" y="317" width="77" height="23" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0037" x="154" y="317" width="77" height="23" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0038" x="0" y="340" width="77" height="22" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="good_0039" x="0" y="0" width="85" height="28" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+</TextureAtlas>

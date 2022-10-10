@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Majin_IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				135,
+				-83
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Majin_LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				-212
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Majin_DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-62,
+				-158
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Majin_RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				139,
+				60
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Majin_UP0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				170,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Majin_LEFTalt"
+		},
+		{
+			"offsets": [
+				7,
+				-209
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Majin_DOWNalt"
+		},
+		{
+			"offsets": [
+				40,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Majin_UPalt"
+		},
+		{
+			"offsets": [
+				-63,
+				-136
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Majin_RIGHTalt"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				20
+			],
+			"anim": "taunt",
+			"fps": 24,
+			"name": "Majin_TAUNT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FruityMajin",
+	"position": [
+		0,
+		40
+	],
+	"healthicon": "majin",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		215
+	],
+	"camera_position": [
+		0,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="staticbox.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="box0000" x="5" y="5" width="883" height="497"/>
+	<SubTexture name="box0001" x="888" y="5" width="883" height="497"/>
+	<SubTexture name="box0002" x="5" y="502" width="883" height="497"/>
+	<SubTexture name="box0003" x="888" y="502" width="883" height="497"/>
+</TextureAtlas>

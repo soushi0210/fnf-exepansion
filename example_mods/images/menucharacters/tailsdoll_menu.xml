@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tailsdoll_menu.png">
+	<!-- Created with Adobe Animate version 16.1.0.86 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="creepysmile0000" x="0" y="0" width="560" height="694"/>
+	<SubTexture name="creepysmile0001" x="0" y="0" width="560" height="694"/>
+	<SubTexture name="creepysmile0002" x="570" y="0" width="560" height="694"/>
+	<SubTexture name="creepysmile0003" x="570" y="0" width="560" height="694"/>
+	<SubTexture name="creepysmile0004" x="1140" y="0" width="560" height="694"/>
+	<SubTexture name="creepysmile0005" x="1140" y="0" width="560" height="694"/>
+	<SubTexture name="creepysmile0006" x="1710" y="0" width="560" height="694"/>
+	<SubTexture name="creepysmile0007" x="1710" y="0" width="560" height="694"/>
+	<SubTexture name="creepysmile0008" x="2280" y="0" width="560" height="694"/>
+	<SubTexture name="creepysmile0009" x="2280" y="0" width="560" height="694"/>
+	<SubTexture name="creepysmile0010" x="2850" y="0" width="560" height="694"/>
+	<SubTexture name="creepysmile0011" x="2850" y="0" width="560" height="694"/>
+	<SubTexture name="creepysmile0012" x="1710" y="0" width="560" height="694"/>
+	<SubTexture name="creepysmile0013" x="1710" y="0" width="560" height="694"/>
+	<SubTexture name="creepysmile0014" x="2280" y="0" width="560" height="694"/>
+	<SubTexture name="creepysmile0015" x="2280" y="0" width="560" height="694"/>
+	<SubTexture name="creepysmile0016" x="2850" y="0" width="560" height="694"/>
+	<SubTexture name="creepysmile0017" x="2850" y="0" width="560" height="694"/>
+	<SubTexture name="creepysmile0018" x="1710" y="0" width="560" height="694"/>
+	<SubTexture name="creepysmile0019" x="1710" y="0" width="560" height="694"/>
+	<SubTexture name="creepysmile0020" x="2280" y="0" width="560" height="694"/>
+	<SubTexture name="creepysmile0021" x="2280" y="0" width="560" height="694"/>
+	<SubTexture name="creepysmile0022" x="2850" y="0" width="560" height="694"/>
+	<SubTexture name="creepysmile0023" x="2850" y="0" width="560" height="694"/>
+	<SubTexture name="creepysmile0024" x="1710" y="0" width="560" height="694"/>
+	<SubTexture name="creepysmile0025" x="1710" y="0" width="560" height="694"/>
+	<SubTexture name="creepysmile0026" x="2280" y="0" width="560" height="694"/>
+	<SubTexture name="creepysmile0027" x="2280" y="0" width="560" height="694"/>
+	<SubTexture name="creepysmile0028" x="2850" y="0" width="560" height="694"/>
+	<SubTexture name="creepysmile0029" x="2850" y="0" width="560" height="694"/>
+	<SubTexture name="creepystare0000" x="3420" y="0" width="560" height="694"/>
+	<SubTexture name="creepystare0001" x="3420" y="0" width="560" height="694"/>
+	<SubTexture name="creepystare0002" x="3990" y="0" width="560" height="694"/>
+	<SubTexture name="creepystare0003" x="3990" y="0" width="560" height="694"/>
+	<SubTexture name="creepystare0004" x="4560" y="0" width="560" height="694"/>
+	<SubTexture name="creepystare0005" x="4560" y="0" width="560" height="694"/>
+	<SubTexture name="creepystare0006" x="3420" y="0" width="560" height="694"/>
+	<SubTexture name="creepystare0007" x="3420" y="0" width="560" height="694"/>
+	<SubTexture name="creepystare0008" x="3990" y="0" width="560" height="694"/>
+	<SubTexture name="creepystare0009" x="3990" y="0" width="560" height="694"/>
+	<SubTexture name="creepystare0010" x="4560" y="0" width="560" height="694"/>
+	<SubTexture name="creepystare0011" x="4560" y="0" width="560" height="694"/>
+	<SubTexture name="creepystare0012" x="3420" y="0" width="560" height="694"/>
+	<SubTexture name="creepystare0013" x="3420" y="0" width="560" height="694"/>
+</TextureAtlas>

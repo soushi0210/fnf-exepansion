@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="sonicthetrollfuckinglololololmaowtf.png">
-<SubTexture name="sonicthetrollfuckinglololololmaowtf down0000" x="515" y="1372" width="540" height="415" frameX="0" frameY="0" frameWidth="500" frameHeight="375" />
-<SubTexture name="sonicthetrollfuckinglololololmaowtf idle0000" x="1320" y="0" width="340" height="497" frameX="0" frameY="0" frameWidth="300" frameHeight="457" />
-<SubTexture name="sonicthetrollfuckinglololololmaowtf left0000" x="0" y="0" width="1320" height="1372" frameX="-8" frameY="-34" frameWidth="1354" frameHeight="1366" />
-<SubTexture name="sonicthetrollfuckinglololololmaowtf right0000" x="1660" y="474" width="265" height="265" frameX="0" frameY="0" frameWidth="225" frameHeight="225" />
-<SubTexture name="sonicthetrollfuckinglololololmaowtf up0000" x="1660" y="0" width="499" height="474" frameX="0" frameY="-31" frameWidth="475" frameHeight="465" />
-<SubTexture name="sonicthetrollfuckinglololololmaowtf up0001" x="0" y="1372" width="515" height="474" frameX="0" frameY="-31" frameWidth="475" frameHeight="465" />
-</TextureAtlas>

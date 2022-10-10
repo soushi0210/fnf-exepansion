@@ -1,0 +1,47 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				72,
+				272
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				1
+			],
+			"name": "custom EXE anim"
+		},
+		{
+			"offsets": [
+				73,
+				273
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "replaced",
+			"indices": [],
+			"name": "custom EXE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EXE Alts/EXE custom anim",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "exe-custom-anim",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		0,
+		138
+	],
+	"camera_position": [
+		-158,
+		-284
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

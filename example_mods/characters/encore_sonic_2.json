@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				126,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-7,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-15,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-36,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				21,
+				14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "REVALED",
+			"loop": false,
+			"name": "revaled"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/encore sonic extra poses",
+	"position": [
+		50,
+		160
+	],
+	"healthicon": "xenofaker",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		100,
+		244
+	],
+	"camera_position": [
+		-140,
+		-25
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

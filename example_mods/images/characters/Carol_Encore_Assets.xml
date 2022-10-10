@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Carol_Encore_Assets.png">
+<SubTexture name="carolsheep DanceLeft0000" x="0" y="1599" width="734" height="796" frameX="-17" frameY="-210" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep DanceLeft0001" x="0" y="1599" width="734" height="796" frameX="-17" frameY="-210" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep DanceLeft0002" x="1468" y="801" width="734" height="797" frameX="-17" frameY="-209" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep DanceLeft0003" x="1468" y="801" width="734" height="797" frameX="-17" frameY="-209" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep DanceLeft0004" x="0" y="801" width="734" height="798" frameX="-17" frameY="-208" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep DanceLeft0005" x="0" y="801" width="734" height="798" frameX="-17" frameY="-208" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep DanceLeft0006" x="1468" y="0" width="734" height="800" frameX="-17" frameY="-206" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep DanceLeft0007" x="1468" y="0" width="734" height="800" frameX="-17" frameY="-206" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep DanceLeft0008" x="0" y="0" width="734" height="801" frameX="-17" frameY="-205" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep DanceLeft0009" x="0" y="0" width="734" height="801" frameX="-17" frameY="-205" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep DanceLeft0010" x="0" y="0" width="734" height="801" frameX="-17" frameY="-205" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep DanceLeft0011" x="0" y="0" width="734" height="801" frameX="-17" frameY="-205" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep DanceLeft0012" x="0" y="0" width="734" height="801" frameX="-17" frameY="-205" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep DanceLeft0013" x="0" y="0" width="734" height="801" frameX="-17" frameY="-205" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep DanceRight0000" x="2936" y="786" width="734" height="783" frameX="-17" frameY="-223" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep DanceRight0001" x="2936" y="786" width="734" height="783" frameX="-17" frameY="-223" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep DanceRight0002" x="2202" y="1599" width="734" height="788" frameX="-17" frameY="-218" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep DanceRight0003" x="2202" y="1599" width="734" height="788" frameX="-17" frameY="-218" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep DanceRight0004" x="1468" y="1599" width="734" height="793" frameX="-17" frameY="-213" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep DanceRight0005" x="1468" y="1599" width="734" height="793" frameX="-17" frameY="-213" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep DanceRight0006" x="2202" y="0" width="734" height="797" frameX="-17" frameY="-209" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep DanceRight0007" x="2202" y="0" width="734" height="797" frameX="-17" frameY="-209" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep DanceRight0008" x="0" y="0" width="734" height="801" frameX="-17" frameY="-205" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep DanceRight0009" x="0" y="0" width="734" height="801" frameX="-17" frameY="-205" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep DanceRight0010" x="0" y="0" width="734" height="801" frameX="-17" frameY="-205" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep DanceRight0011" x="0" y="0" width="734" height="801" frameX="-17" frameY="-205" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep DanceRight0012" x="0" y="0" width="734" height="801" frameX="-17" frameY="-205" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep DanceRight0013" x="0" y="0" width="734" height="801" frameX="-17" frameY="-205" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep Cheer0000" x="2936" y="0" width="734" height="786" frameX="-17" frameY="-220" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep Cheer0001" x="2936" y="0" width="734" height="786" frameX="-17" frameY="-220" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep Cheer0002" x="734" y="1599" width="734" height="794" frameX="-17" frameY="-212" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep Cheer0003" x="734" y="1599" width="734" height="794" frameX="-17" frameY="-212" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep Cheer0004" x="734" y="0" width="734" height="801" frameX="-17" frameY="-205" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep Cheer0005" x="734" y="0" width="734" height="801" frameX="-17" frameY="-205" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep Cheer0006" x="734" y="0" width="734" height="801" frameX="-17" frameY="-205" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep Cheer0007" x="734" y="0" width="734" height="801" frameX="-17" frameY="-205" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep Crying0000" x="2202" y="797" width="734" height="797" frameX="-17" frameY="-209" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep Crying0001" x="2202" y="797" width="734" height="797" frameX="-17" frameY="-209" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep Crying0002" x="734" y="801" width="734" height="798" frameX="-17" frameY="-208" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep Crying0003" x="734" y="801" width="734" height="798" frameX="-17" frameY="-208" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep Crying0004" x="734" y="801" width="734" height="798" frameX="-17" frameY="-208" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep Crying0005" x="734" y="801" width="734" height="798" frameX="-17" frameY="-208" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep Crying0006" x="734" y="801" width="734" height="798" frameX="-17" frameY="-208" frameWidth="768" frameHeight="1024" />
+<SubTexture name="carolsheep Crying0007" x="734" y="801" width="734" height="798" frameX="-17" frameY="-208" frameWidth="768" frameHeight="1024" />
+</TextureAtlas>

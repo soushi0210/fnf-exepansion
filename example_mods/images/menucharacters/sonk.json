@@ -1,0 +1,11 @@
+{
+	"idle_anim": "sonk spooky",
+	"confirm_anim": "sonk spooky",
+	"position": [
+		170,
+		81
+	],
+	"scale": 1,
+	"flipX": false,
+	"image": "sonk"
+}

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="shitRate.png">
+<SubTexture name="shit_0000" x="85" y="0" width="55" height="20" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0001" x="140" y="0" width="55" height="20" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0002" x="0" y="28" width="55" height="21" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0003" x="55" y="28" width="57" height="21" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0004" x="112" y="28" width="57" height="22" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0005" x="0" y="50" width="59" height="23" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0006" x="59" y="50" width="59" height="23" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0007" x="118" y="50" width="61" height="24" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0008" x="0" y="74" width="61" height="24" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0009" x="61" y="74" width="61" height="25" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0010" x="122" y="74" width="63" height="26" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0011" x="0" y="100" width="63" height="26" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0012" x="63" y="100" width="65" height="27" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0013" x="128" y="100" width="65" height="27" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0014" x="0" y="127" width="67" height="28" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0015" x="67" y="127" width="67" height="28" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0016" x="134" y="127" width="67" height="28" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0017" x="0" y="155" width="67" height="28" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0018" x="67" y="155" width="67" height="28" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0019" x="134" y="155" width="67" height="28" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0020" x="0" y="183" width="67" height="28" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0021" x="67" y="183" width="67" height="28" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0022" x="134" y="183" width="67" height="28" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0023" x="0" y="211" width="67" height="28" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0024" x="67" y="211" width="67" height="28" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0025" x="134" y="211" width="67" height="28" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0026" x="0" y="239" width="67" height="27" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0027" x="67" y="239" width="67" height="27" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0028" x="134" y="239" width="67" height="26" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0029" x="0" y="266" width="67" height="26" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0030" x="67" y="266" width="67" height="26" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0031" x="134" y="266" width="67" height="25" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0032" x="0" y="292" width="67" height="25" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0033" x="67" y="292" width="67" height="24" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0034" x="134" y="292" width="67" height="24" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0035" x="0" y="317" width="67" height="23" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0036" x="67" y="317" width="67" height="23" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0037" x="134" y="317" width="67" height="23" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0038" x="0" y="340" width="67" height="22" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+<SubTexture name="shit_0039" x="0" y="0" width="85" height="28" frameX="0" frameY="0" frameWidth="75" frameHeight="18" />
+</TextureAtlas>

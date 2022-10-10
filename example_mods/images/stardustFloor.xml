@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="stardustFloor.png"><SubTexture name="stardustFloor idle0000" x="0" y="0" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustFloor idle0001" x="4612" y="0" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustFloor idle0002" x="9224" y="0" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustFloor idle0003" x="13836" y="0" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustFloor idle0004" x="0" y="2836" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustFloor idle0005" x="4612" y="2836" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustFloor idle0006" x="9224" y="2836" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustFloor idle0007" x="13836" y="2836" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustFloor idle0008" x="0" y="5672" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustFloor idle0009" x="4612" y="5672" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustFloor idle0010" x="9224" y="5672" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustFloor idle0011" x="13836" y="5672" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustFloor idle0012" x="0" y="8508" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustFloor idle0013" x="4612" y="8508" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustFloor idle0014" x="9224" y="8508" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustFloor idle0015" x="13836" y="8508" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustFloor idle0016" x="0" y="11344" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+<SubTexture name="stardustFloor idle0017" x="4612" y="11344" width="4612" height="2836" frameX="0" frameY="0" frameWidth="4612" frameHeight="2836" />
+</TextureAtlas>

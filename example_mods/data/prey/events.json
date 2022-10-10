@@ -1,0 +1,169 @@
+{
+	"song": {
+		"speed": 3.5,
+		"stage": "starved-pixel",
+		"player1": "bf-running-sonic",
+		"player2": "Furnace",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Perez Sen",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				10904.8295454545,
+				[
+					[
+						"Add Camera Zoom",
+						"0.100",
+						""
+					]
+				]
+			],
+			[
+				10909.0909090909,
+				[
+					[
+						"Perez Sen",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				131590.909090909,
+				[
+					[
+						"Perez Sen",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				131676.136363636,
+				[
+					[
+						"Change Character",
+						"dad",
+						"starved-pixel"
+					]
+				]
+			],
+			[
+				131761.363636364,
+				[
+					[
+						"Play Animation",
+						"dialogue",
+						"dad"
+					]
+				]
+			],
+			[
+				131846.590909091,
+				[
+					[
+						"Play Animation",
+						"first dialogue",
+						"1"
+					]
+				]
+			],
+			[
+				131931.818181818,
+				[
+					[
+						"Perez Sen",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				136363.636363636,
+				[
+					[
+						"Lyrics",
+						"Might wanna repair your toys!",
+						"1.1"
+					]
+				]
+			],
+			[
+				142840.909090909,
+				[
+					[
+						"Lyrics",
+						"*Maniacal kackling*--0xFF0000",
+						"8.9"
+					]
+				]
+			],
+			[
+				152301.136363636,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-Sonic-Peelout"
+					]
+				]
+			],
+			[
+				152386.363636364,
+				[
+					[
+						"Perez Sen",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				284147.727272726,
+				[
+					[
+						"Perez Sen",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				284232.954545453,
+				[
+					[
+						"Play Animation",
+						"dialogue peel",
+						"bf"
+					]
+				]
+			],
+			[
+				286874.999999999,
+				[
+					[
+						"Perez Sen",
+						"5",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 176,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Prey"
+	}
+}

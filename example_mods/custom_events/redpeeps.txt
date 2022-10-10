@@ -1,0 +1,8 @@
+if value 1 == no then
+	bg = no visible
+if value 1 == a number 
+	it will transition back to an opacity of 1 in that amount of time
+value 2 is color of the characters
+This also includes a small flash
+
+ONLY USED IN FIGHT OR FLIGHT FOR MEAN TIME

@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				260,
+				-340
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "coldsteel down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				84,
+				90
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "coldsteel up lol",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				50,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "coldsteel idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				177
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "coldsteel right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				251,
+				-75
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "coldsteel left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/coldsteel_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "coldsteel",
+	"flip_x": false,
+	"healthbar_colors": [
+		160,
+		77,
+		164
+	],
+	"camera_position": [
+		-330,
+		250
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

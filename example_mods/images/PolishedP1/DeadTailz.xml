@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DeadTailz.png">
+<SubTexture name="deadtailz BlackStatic0000" x="0" y="0" width="286" height="741" frameX="-223" frameY="-127" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="deadtailz BlackStatic0001" x="286" y="0" width="268" height="741" frameX="-228" frameY="-127" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="deadtailz BlackStatic0002" x="554" y="0" width="281" height="741" frameX="-228" frameY="-127" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="deadtailz BlackStatic0003" x="835" y="0" width="281" height="741" frameX="-228" frameY="-127" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

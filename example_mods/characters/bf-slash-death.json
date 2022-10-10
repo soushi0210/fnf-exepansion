@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "sl4sh bf death start"
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "sl4sh bf dead loop"
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "sl4sh bf death end"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/sl4sh_bf_gameover",
+	"position": [
+		-170,
+		50
+	],
+	"healthicon": "bf-slash-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		189,
+		255
+	],
+	"camera_position": [
+		135,
+		-85
+	],
+	"sing_duration": 4,
+	"scale": 9
+}

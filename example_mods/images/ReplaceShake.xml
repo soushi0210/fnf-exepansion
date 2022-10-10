@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ReplaceShake.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="shake0000" x="0" y="0" width="410" height="234" frameX="-12" frameY="-12" frameWidth="425" frameHeight="254"/>
+	<SubTexture name="shake0001" x="0" y="0" width="410" height="234" frameX="-4" frameY="-8" frameWidth="425" frameHeight="254"/>
+	<SubTexture name="shake0002" x="0" y="0" width="410" height="234" frameX="-8" frameY="0" frameWidth="425" frameHeight="254"/>
+	<SubTexture name="shake0003" x="0" y="0" width="410" height="234" frameX="-15" frameY="-8" frameWidth="425" frameHeight="254"/>
+	<SubTexture name="shake0004" x="0" y="0" width="410" height="234" frameX="0" frameY="-20" frameWidth="425" frameHeight="254"/>
+</TextureAtlas>

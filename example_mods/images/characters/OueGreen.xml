@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="OueGreen.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="0" y="0" width="3737" height="2036"/>
+	<SubTexture name="Idle0001" x="0" y="0" width="3737" height="2036"/>
+	<SubTexture name="Idle0002" x="0" y="2036" width="3737" height="2036"/>
+	<SubTexture name="Idle0003" x="0" y="0" width="3737" height="2036"/>
+</TextureAtlas>
